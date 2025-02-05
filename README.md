@@ -55,4 +55,5 @@
 </ul>
 
 <h2 style="font-size: 28px; color: #4CAF50;">📜 License 📜</h2>
-<p style="font-size: 18px; text-align: justify;">This project is licensed under the MIT License - see the <a href="LICENSE" target="_blank" style="color: #4CAF50; text-decoration: none;">LICENSE</a> file for details.</p>
+<p style="font-size: 18px; text-align: justify; color: #333;">This project is proprietary and owned by Websight Company. The source code is not available for public use or redistribution.</p>
+
