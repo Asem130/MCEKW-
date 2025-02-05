@@ -1,4 +1,4 @@
-<h1 style="font-size: 32px; text-align: center; color: #4CAF50;">🌟 MCEKW - Currency Converter App 🌟</h1>
+<h1 style="font-size: 32px; text-align: center; color: #4CAF50;">🌟 MCEKW - Currency exchange App 🌟</h1>
 
 <p style="font-size: 18px; text-align: justify;">MCEKW is a powerful currency conversion app that enables you to easily convert Kuwaiti Dinar to multiple currencies with real-time exchange rates. 💱 The app also tracks currency trends through an interactive chart 📊, provides secure digital wallet storage 💳, and allows seamless payments with TAB integration 💳. Additionally, MCEKW offers fast and reliable home money delivery services 🏠💵, ensuring a hassle-free experience.</p>
 
